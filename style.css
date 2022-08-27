@@ -1,0 +1,71 @@
+body {
+    background-color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px;
+}
+
+.links {
+    text-align: center;
+    padding: 20px;
+    height: 25px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+a {
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.card {
+    background-color: antiquewhite;
+    border: 2px solid brown;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.tittle-card {
+    text-align: center;
+    text-decoration: overline underline;
+    color: brown;
+}
+
+.tittle {
+    color: blue;
+}
+
+.details {
+    color: darkcyan;
+}
+
+.square {
+    list-style-type: square;
+}
+
+.numbers-ol {
+    list-style-type: upper-roman;
+}
+
+.imgs {
+    text-align: center;
+}
+
+img {
+   width: 200px;
+   height: 125px;
+   border-radius: 15px;
+   border: 2px solid grey;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    color: brown;
+    background-color: white;
+    font-weight: 10px;
+}
